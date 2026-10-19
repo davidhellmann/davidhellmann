@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![/dev/null activity](https://dev-null.sh/@davidhellmann/graph.svg?theme=auto)](https://dev-null.sh/@davidhellmann)
+
 <!--
 **davidhellmann/davidhellmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
